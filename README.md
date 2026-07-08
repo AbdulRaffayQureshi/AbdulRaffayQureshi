@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Abdul Raffay 👋</h1>
+<h3 align="center">🕵️ Genomic Detective — Turning Biological Mysteries Into Solvable Data Problems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=BS+Bioinformatics+%40+COMSATS+University+Islamabad;Machine+Learning+for+Genomics+%26+Drug+Resistance;AI-Driven+Digital+Marketer+%40+Dark+Field+Tech+Labs;Turning+Genomic+Data+Into+Predictive+Insight" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hunting+Down+Resistant+Genes+Before+They+Spread;Bioinformatics+%2B+Deep+Learning+%3D+My+Kind+of+Detective+Work;Turning+Genomic+Noise+Into+Diagnostic+Signal;Debugging+Biology%2C+One+Genome+at+a+Time" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +15,7 @@
 
 ### 🔬 About Me
 
-I'm a Bioinformatics student working at the intersection of computational biology and AI — building predictive models that turn raw genomic and biological data into usable insight. My foundation spans **bioinformatics software, biostatistics, and biophysics**, backed by solid **Linux** systems skills and a full-stack (**MERN**) development background. On top of that, I work with **Generative AI and Machine Learning**, and I'm now pushing further into **Deep Learning** — with the goal of bringing modern DL techniques into bioinformatics workflows that are still dominated by classical methods.
+Think of a doctor diagnosing an infection by symptoms — I do the same thing, except my patient is a genome and my symptoms are patterns in data. I'm a Bioinformatics student who treats biological problems like a detective treats a case: find the anomaly, trace it back to its cause, build a model that catches it next time. My foundation spans **bioinformatics software, biostatistics, and biophysics**, backed by solid **Linux** systems skills and a full-stack (**MERN**) development background. On top of that, I work with **Generative AI and Machine Learning**, and I'm now pushing further into **Deep Learning** — with the goal of bringing modern DL techniques into bioinformatics workflows that are still dominated by classical methods.
 
 - 🧬 **Core strength:** bioinformatics pipelines, biostatistics, biophysics — the biological grounding behind the models
 - 🤖 **Applied AI:** ML → GenAI → now Deep Learning, applied directly to genomic and biological datasets
