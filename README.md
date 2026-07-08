@@ -13,27 +13,29 @@
 
 ---
 
-### 🔬 About Me
+### 🔍 The Investigator
 
 Think of a doctor diagnosing an infection by symptoms — I do the same thing, except my patient is a genome and my symptoms are patterns in data. I'm a Bioinformatics student who treats biological problems like a detective treats a case: find the anomaly, trace it back to its cause, build a model that catches it next time. My foundation spans **bioinformatics software, biostatistics, and biophysics**, backed by solid **Linux** systems skills and a full-stack (**MERN**) development background. On top of that, I work with **Generative AI and Machine Learning**, and I'm now pushing further into **Deep Learning** — with the goal of bringing modern DL techniques into bioinformatics workflows that are still dominated by classical methods.
 
-- 🧬 **Core strength:** bioinformatics pipelines, biostatistics, biophysics — the biological grounding behind the models
-- 🤖 **Applied AI:** ML → GenAI → now Deep Learning, applied directly to genomic and biological datasets
-- 🐧 **Systems:** comfortable in Linux environments, from general use to pipeline execution
-- 🌐 **Full-stack background:** MERN stack — the dev skills that let me turn models into actual usable tools, not just notebooks
-- 🎯 **Long-term goal:** use AI/DL to reshape how bioinformatics research is done — faster discovery, better prediction, real deployable tools
-- 🕌 **Also writing about:** where scientific research and Islamic practice intersect
-- 💬 **Ask me about:** AMR prediction pipelines, SHAP-based model interpretability, or bringing deep learning into computational biology
+- 🧬 **The evidence I specialize in:** bioinformatics pipelines, biostatistics, biophysics — the biological grounding behind every model
+- 🤖 **My method:** ML → GenAI → now Deep Learning, applied directly to genomic and biological datasets
+- 🐧 **My base of operations:** Linux, from general use to full pipeline execution
+- 🌐 **How I build the case files:** MERN stack — the dev skills that turn models into actual usable tools, not just notebooks
+- 🎯 **The bigger case I'm working:** using AI/DL to reshape how bioinformatics research is done — faster discovery, better prediction, real deployable tools
+- 🕌 **Side investigation:** where scientific research and Islamic practice intersect
+- 💬 **Interrogate me about:** AMR prediction pipelines, SHAP-based model interpretability, or bringing deep learning into computational biology
 
 ---
 
-### 🧪 Featured Work
+### 🗂️ Case Files
+
+<p>Closed cases, solved with data:</p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🦠 AMR Predictor — Acinetobacter baumannii**
+**🦠 Case #1 — AMR Predictor: Acinetobacter baumannii**
 Random Forest classifier predicting antimicrobial resistance across ~1,884 genomes from BV-BRC. Uses SMOTE for class imbalance, Chi-Squared feature selection, and SHAP for interpretability, with a live Streamlit dashboard for exploring predictions.
 
 `Python` `scikit-learn` `SHAP` `SMOTE` `Streamlit`
@@ -41,7 +43,7 @@ Random Forest classifier predicting antimicrobial resistance across ~1,884 genom
 </td>
 <td width="50%" valign="top">
 
-**🧬 SLC6A4 Variant Detection**
+**🧬 Case #2 — SLC6A4 Variant Detection**
 SNP analysis pipeline: Bowtie2 alignment, ORF prediction, and Cytoscape-based network visualization, built for a Bioinformatics Analysis Lab course project.
 
 `Bowtie2` `Cytoscape` `Bioinformatics`
@@ -51,7 +53,7 @@ SNP analysis pipeline: Bowtie2 alignment, ORF prediction, and Cytoscape-based ne
 <tr>
 <td width="50%" valign="top">
 
-**🚨 Smart Crime Prediction & Patrol Optimization**
+**🚨 Case #3 — Smart Crime Prediction & Patrol Optimization**
 Streamlit app using a Random Forest classifier on synthetic crime data to predict hotspots and optimize patrol allocation.
 
 `Python` `Streamlit` `scikit-learn`
@@ -59,7 +61,7 @@ Streamlit app using a Random Forest classifier on synthetic crime data to predic
 </td>
 <td width="50%" valign="top">
 
-**💊 Sulfonamide Derivatives as Antibacterials**
+**💊 Case #4 — Sulfonamide Derivatives as Antibacterials**
 Academic colloquium piece covering molecular docking, ADMET profiling, and clinical trial pathways for sulfonamide-based antibacterial agents.
 
 `Research` `Molecular Docking` `ADMET`
@@ -70,7 +72,7 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 The Toolkit
 
 **Bioinformatics & Data Science**
 
@@ -111,7 +113,17 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 The Snake Hunts My Commits
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/output/github-contribution-grid-snake-dark.svg" alt="snake eating contribution graph" />
+</p>
+
+> This is a live animation — the snake actually eats through my real contribution graph. It only shows up once the workflow below runs on your repo (setup at the bottom of this file).
+
+---
+
+### 📊 Case Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulRaffayQureshi&show_icons=true&theme=default_repocard&hide_border=false&count_private=true" height="165"/>
@@ -131,3 +143,52 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 <p align="center">
   <i>Open to collaborating on AI/DL in bioinformatics — predictive modeling, open-source tools, and genomic data visualization. Trying to help bring this field into the deep learning era. Reach out!</i>
 </p>
+
+---
+
+<details>
+<summary>⚙️ Setup note: activating the snake animation (one-time, ~2 min)</summary>
+
+<br>
+
+The snake image above only renders once you add a GitHub Action to your **profile repo** (the one named exactly `AbdulRaffayQureshi`, same as your username) that regenerates it daily from your real contribution graph.
+
+1. In that repo, create the file `.github/workflows/snake.yml` with this content:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: AbdulRaffayQureshi
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. Commit it, then run the workflow once manually from the **Actions** tab (or just wait for the daily cron / next push).
+3. It creates an `output` branch with the generated SVGs — which is exactly what the image link above points to. Once that branch exists, the snake shows up automatically.
+
+</details>
