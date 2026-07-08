@@ -2,7 +2,7 @@
 <h3 align="center">🕵️ Genomic Detective — Turning Biological Mysteries Into Solvable Data Problems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hunting+Down+Resistant+Genes+Before+They+Spread;Bioinformatics+%2B+Deep+Learning+%3D+My+Kind+of+Detective+Work;Turning+Genomic+Noise+Into+Diagnostic+Signal;Debugging+Biology%2C+One+Genome+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hunting+Down+Resistant+Genes+Before+They+Spread;Bioinformatics+%2B+AI+%2B+Deep+Learning;Building+Deployable+Genomic+Tools;From+Data+to+Discovery+in+Real+Time" alt="Typing animation describing my work" />
 </p>
 
 <p align="center">
@@ -15,7 +15,9 @@
 
 ### 🔍 The Investigator
 
-Think of a doctor diagnosing an infection by symptoms — I do the same thing, except my patient is a genome and my symptoms are patterns in data. I'm a Bioinformatics student who treats biological problems like a detective treats a case: find the anomaly, trace it back to its cause, build a model that catches it next time. My foundation spans **bioinformatics software, biostatistics, and biophysics**, backed by solid **Linux** systems skills and a full-stack (**MERN**) development background. On top of that, I work with **Generative AI and Machine Learning**, and I'm now pushing further into **Deep Learning** — with the goal of bringing modern DL techniques into bioinformatics workflows that are still dominated by classical methods.
+Think of a doctor diagnosing an infection by symptoms — I do the same thing, except my patient is a genome and my symptoms are patterns in data. I'm a Bioinformatics student who treats biological data as a puzzle to solve. I combine computational rigor with real-world biology to build predictive models that actually work and can be deployed.
+
+My focus: **turning genomic mysteries into actionable insights through machine learning and deep learning**.
 
 - 🧬 **The evidence I specialize in:** bioinformatics pipelines, biostatistics, biophysics — the biological grounding behind every model
 - 🤖 **My method:** ML → GenAI → now Deep Learning, applied directly to genomic and biological datasets
@@ -29,24 +31,30 @@ Think of a doctor diagnosing an infection by symptoms — I do the same thing, e
 
 ### 🗂️ Case Files
 
-<p>Closed cases, solved with data:</p>
+<p><strong>Closed cases, solved with data:</strong></p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **🦠 Case #1 — AMR Predictor: Acinetobacter baumannii**
-Random Forest classifier predicting antimicrobial resistance across ~1,884 genomes from BV-BRC. Uses SMOTE for class imbalance, Chi-Squared feature selection, and SHAP for interpretability, with a live Streamlit dashboard for exploring predictions.
+
+Random Forest classifier predicting antimicrobial resistance across ~1,884 genomes from BV-BRC. Uses SMOTE for class imbalance, Chi-Squared feature selection, and SHAP for model interpretability. Deployed as a live Streamlit app with real-time predictions and actionable insights for antibiotic resistance patterns.
 
 `Python` `scikit-learn` `SHAP` `SMOTE` `Streamlit`
+
+📍 [View Repository](https://github.com/AbdulRaffayQureshi/AMR_Predictor_Acinetobacter) | [Live Demo](https://amr-predictor.streamlit.app)
 
 </td>
 <td width="50%" valign="top">
 
 **🧬 Case #2 — SLC6A4 Variant Detection**
-SNP analysis pipeline: Bowtie2 alignment, ORF prediction, and Cytoscape-based network visualization, built for a Bioinformatics Analysis Lab course project.
 
-`Bowtie2` `Cytoscape` `Bioinformatics`
+SNP analysis pipeline: Bowtie2 alignment, ORF prediction, and Cytoscape-based network visualization. Built for a Bioinformatics Analysis Lab course project. Detects and visualizes genetic variants in the serotonin transporter gene with full reproducible workflow documentation.
+
+`Bowtie2` `Cytoscape` `Bioinformatics` `Python`
+
+📍 [View Repository](https://github.com/AbdulRaffayQureshi/SLC6A4_Variant_Analysis)
 
 </td>
 </tr>
@@ -54,17 +62,23 @@ SNP analysis pipeline: Bowtie2 alignment, ORF prediction, and Cytoscape-based ne
 <td width="50%" valign="top">
 
 **🚨 Case #3 — Smart Crime Prediction & Patrol Optimization**
-Streamlit app using a Random Forest classifier on synthetic crime data to predict hotspots and optimize patrol allocation.
 
-`Python` `Streamlit` `scikit-learn`
+Streamlit app using a Random Forest classifier on synthetic crime data to predict hotspots and optimize patrol allocation. Demonstrates how bioinformatics techniques apply to urban safety analytics with real-time predictions and interactive visualization.
+
+`Python` `Streamlit` `scikit-learn` `Pandas` `Plotly`
+
+📍 [View Repository](https://github.com/AbdulRaffayQureshi/Crime_Prediction_Model)
 
 </td>
 <td width="50%" valign="top">
 
 **💊 Case #4 — Sulfonamide Derivatives as Antibacterials**
-Academic colloquium piece covering molecular docking, ADMET profiling, and clinical trial pathways for sulfonamide-based antibacterial agents.
 
-`Research` `Molecular Docking` `ADMET`
+Academic colloquium piece covering molecular docking, ADMET profiling, and clinical trial pathways for sulfonamide-based antibacterial agents. Bridges computational chemistry with pharmaceutical development and drug discovery workflows.
+
+`Research` `Molecular Docking` `ADMET` `PyMOL` `AutoDock`
+
+📍 [View Paper](https://github.com/AbdulRaffayQureshi/Sulfonamide_Research)
 
 </td>
 </tr>
@@ -119,57 +133,74 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
   <img src="https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/output/github-contribution-grid-snake-dark.svg" alt="snake eating contribution graph" />
 </p>
 
-> This is a live animation — the snake actually eats through my real contribution graph. It only shows up once the workflow below runs on your repo (setup at the bottom of this file).
+> This is a live animation — the snake actually eats through my real contribution graph. It only shows up once the GitHub Action workflow (documented below) runs on your profile repo.
 
 ---
 
 ### 📊 Case Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRaffayQureshi&show_icons=true&theme=default_repocard&hide_border=false&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRaffayQureshi&layout=compact&theme=default_repocard&hide_border=false" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRaffayQureshi&show_icons=true&theme=default_repocard&hide_border=false&count_private=true" height="165" alt="GitHub Stats: repositories and contributions"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRaffayQureshi&layout=compact&theme=default_repocard&hide_border=false" height="165" alt="Top Languages: Python, JavaScript, R"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRaffayQureshi&theme=default_repocard&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRaffayQureshi&theme=default_repocard&hide_border=false" alt="GitHub Contribution Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulRaffayQureshi&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulRaffayQureshi&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Achievements and Trophies"/>
 </p>
 
 ---
 
-<p align="center">
-  <i>Open to collaborating on AI/DL in bioinformatics — predictive modeling, open-source tools, and genomic data visualization. Trying to help bring this field into the deep learning era. Reach out!</i>
-</p>
+### 🤝 Let's Collaborate
+
+I'm actively looking for opportunities to work on:
+
+- **AI/DL in bioinformatics** — predictive modeling, genomic data analysis, and tool development
+- **Open-source bioinformatics tools** — building reproducible, deployable solutions
+- **Genomic data visualization** — making complex biological data accessible and actionable
+- **Research collaborations** — bridging computational biology with real-world impact
+
+**Reach out if you're working on antimicrobial resistance, genomic prediction, or bringing deep learning into computational biology. I'm always open to collaboration!**
+
+📧 [qureshiabdulraffay@gmail.com](mailto:qureshiabdulraffay@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/abdulraffayqureshi)  
+𝕏 [@Uff_Raffay](https://x.com/Uff_Raffay)
 
 ---
 
 <details>
-<summary>⚙️ Setup note: activating the snake animation (one-time, ~2 min)</summary>
+<summary>⚙️ Setup Guide: Activating the Snake Animation (one-time, ~5 minutes)</summary>
 
 <br>
 
-The snake image above only renders once you add a GitHub Action to your **profile repo** (the one named exactly `AbdulRaffayQureshi`, same as your username) that regenerates it daily from your real contribution graph.
+The snake animation you see above only renders once you add a GitHub Action to your **profile repository** (the one named exactly `AbdulRaffayQureshi` — same as your GitHub username). This workflow regenerates the snake SVG daily from your contribution graph.
 
-1. In that repo, create the file `.github/workflows/snake.yml` with this content:
+#### Steps:
+
+**1. Create the workflow file**
+
+In your profile repository, create a new file at `.github/workflows/snake.yml` with the following content:
 
 ```yaml
 name: Generate Snake
 
 on:
   schedule:
+    # Run daily at midnight UTC
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v3
@@ -188,7 +219,28 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-2. Commit it, then run the workflow once manually from the **Actions** tab (or just wait for the daily cron / next push).
-3. It creates an `output` branch with the generated SVGs — which is exactly what the image link above points to. Once that branch exists, the snake shows up automatically.
+**2. Commit and deploy**
+
+- Commit the file to your `main` branch
+- Navigate to the **Actions** tab in your repository
+- Find the "Generate Snake" workflow and click **Run workflow** to execute it immediately
+- (Alternatively, wait for the daily scheduled run or make any push to trigger it)
+
+**3. Verify the output**
+
+- The workflow will automatically create an `output` branch containing the generated SVG files
+- Once that branch exists, the snake animation will appear in your README automatically
+- The workflow will continue to regenerate the snake daily based on your latest contributions
+
+**Troubleshooting:**
+- If the snake doesn't appear after 5 minutes, check the **Actions** tab for workflow run status
+- Ensure the branch name in the workflow is set to `output` and that `target_branch: output` is in the GitHub Pages deployment step
+- Verify your GitHub token permissions include `contents: write`
 
 </details>
+
+---
+
+<p align="center">
+  <i>Built with ❤️ and a love for turning data into discovery. Let's build something that matters.</i>
+</p>
