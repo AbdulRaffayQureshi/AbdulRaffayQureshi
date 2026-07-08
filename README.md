@@ -1,7 +1,5 @@
-<div align="center">
-  <h1>🕵️‍♂️ CASE FILE: INTEL-RAFFAY</h1>
-  <p><b>STATUS:</b> Actively Hunting Resistant Pathways // <b>TARGET:</b> Genomic Noise</p>
-</div>
+<h1 align="center">Hi, I'm Abdul Raffay 👋</h1>
+<h3 align="center">🕵️ Genomic Detective — Turning Biological Mysteries Into Solvable Data Problems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hunting+Down+Resistant+Genes+Before+They+Spread;Bioinformatics+%2B+Deep+Learning+%3D+My+Kind+of+Detective+Work;Turning+Genomic+Noise+Into+Diagnostic+Signal;Debugging+Biology%2C+One+Genome+at+a+Time" alt="Typing SVG" />
@@ -15,7 +13,7 @@
 
 ---
 
-## 🔍 | THE INVESTIGATOR
+### 🔍 <ins>The Investigator</ins>
 
 Think of a doctor diagnosing an infection by symptoms — I do the same thing, except my patient is a genome and my symptoms are patterns in data. I'm a Bioinformatics student who treats biological problems like a detective treats a case: find the anomaly, trace it back to its cause, build a model that catches it next time. My foundation spans **bioinformatics software, biostatistics, and biophysics**, backed by solid **Linux** systems skills and a full-stack (**MERN**) development background. On top of that, I work with **Generative AI and Machine Learning**, and I'm now pushing further into **Deep Learning** — with the goal of bringing modern DL techniques into bioinformatics workflows that are still dominated by classical methods.
 
@@ -29,7 +27,7 @@ Think of a doctor diagnosing an infection by symptoms — I do the same thing, e
 
 ---
 
-## 🗂️ | CASE FILES
+### 🗂️ <ins>Case Files</ins>
 
 <p>Closed cases, solved with data:</p>
 
@@ -37,14 +35,16 @@ Think of a doctor diagnosing an infection by symptoms — I do the same thing, e
 <tr>
 <td width="50%" valign="top">
 
-**🦠 Case #1 — AMR Predictor: Acinetobacter baumannii** Random Forest classifier predicting antimicrobial resistance across ~1,884 genomes from BV-BRC. Uses SMOTE for class imbalance, Chi-Squared feature selection, and SHAP for interpretability, with a live Streamlit dashboard for exploring predictions.
+**🦠 Case #1 — AMR Predictor: Acinetobacter baumannii**  
+Random Forest classifier predicting antimicrobial resistance across ~1,884 genomes from BV-BRC. Uses SMOTE for class imbalance, Chi-Squared feature selection, and SHAP for interpretability, with a live Streamlit dashboard for exploring predictions.
 
 `Python` `scikit-learn` `SHAP` `SMOTE` `Streamlit`
 
 </td>
 <td width="50%" valign="top">
 
-**🧬 Case #2 — SLC6A4 Variant Detection** SNP analysis pipeline: Bowtie2 alignment, ORF prediction, and Cytoscape-based network visualization, built for a Bioinformatics Analysis Lab course project.
+**🧬 Case #2 — SLC6A4 Variant Detection**  
+SNP analysis pipeline: Bowtie2 alignment, ORF prediction, and Cytoscape-based network visualization, built for a Bioinformatics Analysis Lab course project.
 
 `Bowtie2` `Cytoscape` `Bioinformatics`
 
@@ -53,14 +53,16 @@ Think of a doctor diagnosing an infection by symptoms — I do the same thing, e
 <tr>
 <td width="50%" valign="top">
 
-**🚨 Case #3 — Smart Crime Prediction & Patrol Optimization** Streamlit app using a Random Forest classifier on synthetic crime data to predict hotspots and optimize patrol allocation.
+**🚨 Case #3 — Smart Crime Prediction & Patrol Optimization**  
+Streamlit app using a Random Forest classifier on synthetic crime data to predict hotspots and optimize patrol allocation.
 
 `Python` `Streamlit` `scikit-learn`
 
 </td>
 <td width="50%" valign="top">
 
-**💊 Case #4 — Sulfonamide Derivatives as Antibacterials** Academic colloquium piece covering molecular docking, ADMET profiling, and clinical trial pathways for sulfonamide-based antibacterial agents.
+**💊 Case #4 — Sulfonamide Derivatives as Antibacterials**  
+Academic colloquium piece covering molecular docking, ADMET profiling, and clinical trial pathways for sulfonamide-based antibacterial agents.
 
 `Research` `Molecular Docking` `ADMET`
 
@@ -70,9 +72,10 @@ Think of a doctor diagnosing an infection by symptoms — I do the same thing, e
 
 ---
 
-## 🧰 | THE TOOLKIT
+### 🧰 <ins>The Toolkit</ins>
 
-### 🧪 Bioinformatics & Data Science
+**Bioinformatics & Data Science**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -83,7 +86,8 @@ Think of a doctor diagnosing an infection by symptoms — I do the same thing, e
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 💻 Systems & Infrastructure
+**Systems & Tools**
+
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -92,7 +96,8 @@ Think of a doctor diagnosing an infection by symptoms — I do the same thing, e
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
-### 🌐 Full-Stack Web Architecture
+**Full-Stack (MERN)**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -100,14 +105,15 @@ Think of a doctor diagnosing an infection by symptoms — I do the same thing, e
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-### ⚙️ Core Engineering
+**Core Dev**
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
-## 🐍 | FOLLOWING THE TRAIL
+### 🐍 <ins>Following the Trail</ins>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRaffayQureshi&theme=react-dark&hide_border=true&area=true" alt="commit activity graph" />
@@ -115,7 +121,7 @@ Think of a doctor diagnosing an infection by symptoms — I do the same thing, e
 
 ---
 
-## 🎯 | TRACKING THE TAIL (CONTRIBUTION GRID)
+### 🕵️‍♂️ <ins>Tracking the Tail (Contribution Activity)</ins>
 
 <p align="center">
   <picture>
@@ -127,7 +133,7 @@ Think of a doctor diagnosing an infection by symptoms — I do the same thing, e
 
 ---
 
-## 📊 | CASE STATS
+### 📊 <ins>Case Stats</ins>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=AbdulRaffayQureshi&show_icons=true&theme=default_repocard&hide_border=false&count_private=true" height="165"/>
