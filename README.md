@@ -144,9 +144,9 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
   <img src="https://streak-stats.demolab.com/?user=AbdulRaffayQureshi&theme=default_repocard&hide_border=false" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophies.ryma.io/?username=AbdulRaffayQureshi&theme=radical&no-frame=false&margin-w=4" />
-</p>
+</p> -->
 
 ---
 
