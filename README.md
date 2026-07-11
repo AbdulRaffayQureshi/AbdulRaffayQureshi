@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2E9EF7,100:7873f5&height=220&section=header&text=Genomic%20Detective&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20Biological%20Mysteries%20Into%20Solvable%20Data%20Problems&descAlignY=58&descSize=18&descColor=e0e0e0" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2E9EF7,100:7873f5&height=220&section=header&text=Abdul%20Raffay&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20Biological%20Mysteries%20Into%20Solvable%20Data%20Problems&descAlignY=58&descSize=18&descColor=e0e0e0" width="100%" alt="Header Banner"/>
 </p>
 
 <h1 align="center">Hi, I'm Abdul Raffay 👋</h1>
@@ -137,8 +137,8 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 ### 🧬 <ins>3D Language DNA Helix</ins>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRaffayQureshi&layout=donut&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRaffayQureshi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="250"/>
+  <img src="https://github-readme-stats-bice-iota-93.vercel.app/api/top-langs/?username=AbdulRaffayQureshi&layout=donut&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="250"/>
+  <img src="https://github-readme-stats-bice-iota-93.vercel.app/api?username=AbdulRaffayQureshi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="250"/>
 </p>
 
 <p align="center">
@@ -195,7 +195,7 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 ### 🏆 <ins>Detective Badges</ins>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulRaffayQureshi&theme=radical&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=AbdulRaffayQureshi&theme=radical&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
