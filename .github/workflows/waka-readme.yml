@@ -1,0 +1,24 @@
+name: Weekly Coding Time Update
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_TIMEZONE: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_OS: "False"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_LANGUAGE: "True"
+          SHOW_COMMIT: "False"
+          BLOCKS: "░▒▓█"
