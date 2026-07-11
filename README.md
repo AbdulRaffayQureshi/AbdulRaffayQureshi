@@ -33,14 +33,6 @@ Think of a doctor diagnosing an infection by symptoms — I do the same thing, e
 
 ---
 
-### 🎧 Currently On Repeat
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=2E9EF7&bar_color_cover=false" width="350" alt="Spotify Now Playing"/>
-</p>
-
----
-
 ### 🧬 3D Genomic Landscape
 
 <p align="center">
@@ -207,13 +199,6 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AbdulRaffayQureshi&theme=default_repocard&hide_border=false" />
 </p>
-
----
-
-### 📰 Latest Case Notes
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
