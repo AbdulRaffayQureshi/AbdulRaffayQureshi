@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2E9EF7,100:7873f5&height=220&section=header&text=Abdul%20Raffay&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20Biological%20Mysteries%20Into%20Solvable%20Data%20Problems&descAlignY=58&descSize=18&descColor=e0e0e0" width="100%" alt="Header Banner"/>
 </p>
 
-<h1 align="center">Hi, I'm Abdul Raffay 👋</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Hunting+Down+Resistant+Genes+Before+They+Spread;Bioinformatics+%2B+Deep+Learning+%3D+My+Kind+of+Detective+Work;Turning+Genomic+Noise+Into+Diagnostic+Signal;Debugging+Biology%2C+One+Genome+at+a+Time" alt="Typing SVG" />
 </p>
@@ -16,7 +14,7 @@
 
 ---
 
-### 🔍 <ins>The Investigator</ins>
+### 🔍 The Investigator
 
 Think of a doctor diagnosing an infection by symptoms — I do the same thing, except my patient is a genome and my symptoms are patterns in data. I'm a Bioinformatics student who treats biological problems like a detective treats a case: find the anomaly, trace it back to its cause, build a model that catches it next time. My foundation spans **bioinformatics software, biostatistics, and biophysics**, backed by solid **Linux** systems skills and a full-stack (**MERN**) development background. On top of that, I work with **Generative AI and Machine Learning**, and I'm now pushing further into **Deep Learning** — with the goal of bringing modern DL techniques into bioinformatics workflows that are still dominated by classical methods.
 
@@ -30,7 +28,7 @@ Think of a doctor diagnosing an infection by symptoms — I do the same thing, e
 
 ---
 
-### 🧬 <ins>3D Genomic Landscape</ins>
+### 🧬 3D Genomic Landscape
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
@@ -42,7 +40,7 @@ Think of a doctor diagnosing an infection by symptoms — I do the same thing, e
 
 ---
 
-### 🗂️ <ins>Case Files</ins>
+### 🗂️ Case Files
 
 <p>Closed cases, solved with data:</p>
 
@@ -87,7 +85,7 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 ---
 
-### 🧰 <ins>The Toolkit</ins>
+### 🧰 The Toolkit
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,pytorch,sklearn,linux,bash,git,github,vscode,aws,cpp,latex,nodejs,react,mongodb,express&theme=dark" alt="Skill Icons" />
@@ -134,7 +132,7 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 ---
 
-### 🧬 <ins>3D Language DNA Helix</ins>
+### 🧬 3D Language DNA Helix
 
 <p align="center">
   <img src="https://github-readme-stats-bice-iota-93.vercel.app/api/top-langs/?username=AbdulRaffayQureshi&layout=donut&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="250"/>
@@ -147,7 +145,7 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 ---
 
-### 🐍 <ins>Following the Trail</ins>
+### 🐍 Following the Trail
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRaffayQureshi&theme=react-dark&hide_border=true&area=true" alt="commit activity graph" />
@@ -155,7 +153,7 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 ---
 
-### 🕵️‍♂️ <ins>Tracking the Tail (Contribution Activity)</ins>
+### 🕵️‍♂️ Tracking the Tail (Contribution Activity)
 
 <p align="center">
   <picture>
@@ -167,7 +165,7 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 ---
 
-### 🌌 <ins>3D Contribution Night View</ins>
+### 🌌 3D Contribution Night View
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Night View Contribution" />
@@ -179,7 +177,7 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 ---
 
-### 📊 <ins>Case Stats</ins>
+### 📊 Case Stats
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=AbdulRaffayQureshi&show_icons=true&theme=default_repocard&hide_border=false&count_private=true" height="165"/>
@@ -188,14 +186,6 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AbdulRaffayQureshi&theme=default_repocard&hide_border=false" />
-</p>
-
----
-
-### 🏆 <ins>Detective Badges</ins>
-
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=AbdulRaffayQureshi&theme=radical&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
