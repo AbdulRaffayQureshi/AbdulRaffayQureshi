@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2E9EF7,100:7873f5&height=220&section=header&text=Genomic%20Detective&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20Biological%20Mysteries%20Into%20Solvable%20Data%20Problems&descAlignY=58&descSize=18&descColor=e0e0e0" width="100%" alt="Header Banner"/>
+</p>
+
 <h1 align="center">Hi, I'm Abdul Raffay 👋</h1>
-<h3 align="center">🕵️ Genomic Detective — Turning Biological Mysteries Into Solvable Data Problems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Hunting+Down+Resistant+Genes+Before+They+Spread;Bioinformatics+%2B+Deep+Learning+%3D+My+Kind+of+Detective+Work;Turning+Genomic+Noise+Into+Diagnostic+Signal;Debugging+Biology%2C+One+Genome+at+a+Time" alt="Typing SVG" />
@@ -24,6 +27,18 @@ Think of a doctor diagnosing an infection by symptoms — I do the same thing, e
 * 🎯 **The bigger case I'm working:** using AI/DL to reshape how bioinformatics research is done — faster discovery, better prediction, real deployable tools
 * 🕌 **Side investigation:** where scientific research and Islamic practice intersect
 * 💬 **Interrogate me about:** AMR prediction pipelines, SHAP-based model interpretability, or bringing deep learning into computational biology
+
+---
+
+### 🧬 <ins>3D Genomic Landscape</ins>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
+</p>
+
+<p align="center">
+  <i>🔬 My contribution activity visualized as a 3D genomic landscape — each block represents a day of detective work in the codebase.</i>
+</p>
 
 ---
 
@@ -74,6 +89,12 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 ### 🧰 <ins>The Toolkit</ins>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,pytorch,sklearn,linux,bash,git,github,vscode,aws,cpp,latex,nodejs,react,mongodb,express&theme=dark" alt="Skill Icons" />
+</p>
+
+<p align="center"><i>👆 Hover over any icon — these respond live in-browser.</i></p>
+
 **Bioinformatics & Data Science**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -113,6 +134,19 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 ---
 
+### 🧬 <ins>3D Language DNA Helix</ins>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRaffayQureshi&layout=donut&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRaffayQureshi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="250"/>
+</p>
+
+<p align="center">
+  <i>🧬 The "DNA" of my codebase — visualized as a 3D donut chart and stats card.</i>
+</p>
+
+---
+
 ### 🐍 <ins>Following the Trail</ins>
 
 <p align="center">
@@ -133,6 +167,18 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 ---
 
+### 🌌 <ins>3D Contribution Night View</ins>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Night View Contribution" />
+</p>
+
+<p align="center">
+  <i>🌃 A night-sky view of my coding activity — like observing stars in a genomic universe.</i>
+</p>
+
+---
+
 ### 📊 <ins>Case Stats</ins>
 
 <p align="center">
@@ -144,12 +190,22 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
   <img src="https://streak-stats.demolab.com/?user=AbdulRaffayQureshi&theme=default_repocard&hide_border=false" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-profile-trophies.ryma.io/?username=AbdulRaffayQureshi&theme=radical&no-frame=false&margin-w=4" />
-</p> -->
+---
+
+### 🏆 <ins>Detective Badges</ins>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulRaffayQureshi&theme=radical&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
 <p align="center">
   <i>Open to collaborating on AI/DL in bioinformatics — predictive modeling, open-source tools, and genomic data visualization. Trying to help bring this field into the deep learning era. Reach out!</i>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdulRaffayQureshi&label=Case%20Files%20Viewed&color=2E9EF7&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7873f5,50:2E9EF7,100:0d1117&height=150&section=footer&animation=fadeIn" width="100%" alt="Footer Banner"/>
