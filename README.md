@@ -198,3 +198,7 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 &lt;p align="center"&gt;
   &lt;i&gt;Open to collaborating on AI/DL in bioinformatics — predictive modeling, open-source tools, and genomic data visualization. Trying to help bring this field into the deep learning era. Reach out!&lt;/i&gt;
 &lt;/p&gt;
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</p>
