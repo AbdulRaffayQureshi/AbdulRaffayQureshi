@@ -125,15 +125,14 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 ---
 
-### 🧬 <ins>3D Language DNA Helix</ins>
+### 🧬 <ins>Genomic Code DNA</ins>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRaffayQureshi&layout=donut&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRaffayQureshi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRaffayQureshi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <i>🧬 The "DNA" of my codebase — visualized as a 3D donut chart and stats card.</i>
+  <i>🧬 The "DNA" of my codebase — language distribution across all repositories.</i>
 </p>
 
 ---
@@ -158,35 +157,11 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 ---
 
-### 🌌 <ins>3D Contribution Night View</ins>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Night View Contribution" />
-</p>
-
-<p align="center">
-  <i>🌃 A night-sky view of my coding activity — like observing stars in a genomic universe.</i>
-</p>
-
----
-
 ### 📊 <ins>Case Stats</ins>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=AbdulRaffayQureshi&show_icons=true&theme=default_repocard&hide_border=false&count_private=true" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdulRaffayQureshi&layout=compact&theme=default_repocard&hide_border=false" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AbdulRaffayQureshi&theme=default_repocard&hide_border=false" />
-</p>
-
----
-
-### 🏆 <ins>Detective Badges</ins>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulRaffayQureshi&theme=radical&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRaffayQureshi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=AbdulRaffayQureshi&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
