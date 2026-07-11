@@ -12,6 +12,11 @@
   <a href="https://x.com/Uff_Raffay"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/NVIDIA-AI%20Infrastructure%20%26%20Operations%20Fundamentals-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Certification"/>
+  <img src="https://img.shields.io/badge/Coursera-Verified%20Certificate-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera"/>
+</p>
+
 ---
 
 ### 🔍 The Investigator
@@ -25,6 +30,14 @@ Think of a doctor diagnosing an infection by symptoms — I do the same thing, e
 * 🎯 **The bigger case I'm working:** using AI/DL to reshape how bioinformatics research is done — faster discovery, better prediction, real deployable tools
 * 🕌 **Side investigation:** where scientific research and Islamic practice intersect
 * 💬 **Interrogate me about:** AMR prediction pipelines, SHAP-based model interpretability, or bringing deep learning into computational biology
+
+---
+
+### 🎧 Currently On Repeat
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=2E9EF7&bar_color_cover=false" width="350" alt="Spotify Now Playing"/>
+</p>
 
 ---
 
@@ -132,6 +145,13 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 ---
 
+### ⏱️ Time Spent on the Case (Weekly Coding Activity)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### 🧬 3D Language DNA Helix
 
 <p align="center">
@@ -187,6 +207,13 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AbdulRaffayQureshi&theme=default_repocard&hide_border=false" />
 </p>
+
+---
+
+### 📰 Latest Case Notes
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
