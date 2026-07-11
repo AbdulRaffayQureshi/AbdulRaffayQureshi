@@ -27,18 +27,6 @@ Think of a doctor diagnosing an infection by symptoms — I do the same thing, e
 
 ---
 
-### 🧬 <ins>3D Genomic Landscape</ins>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
-</p>
-
-<p align="center">
-  <i>🔬 My contribution activity visualized as a 3D genomic landscape — each block represents a day of detective work in the codebase.</i>
-</p>
-
----
-
 ### 🗂️ <ins>Case Files</ins>
 
 <p>Closed cases, solved with data:</p>
@@ -125,18 +113,6 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 ---
 
-### 🧬 <ins>Genomic Code DNA</ins>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRaffayQureshi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <i>🧬 The "DNA" of my codebase — language distribution across all repositories.</i>
-</p>
-
----
-
 ### 🐍 <ins>Following the Trail</ins>
 
 <p align="center">
@@ -160,9 +136,17 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 ### 📊 <ins>Case Stats</ins>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRaffayQureshi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=AbdulRaffayQureshi&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=AbdulRaffayQureshi&show_icons=true&theme=default_repocard&hide_border=false&count_private=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdulRaffayQureshi&layout=compact&theme=default_repocard&hide_border=false" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AbdulRaffayQureshi&theme=default_repocard&hide_border=false" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://github-profile-trophies.ryma.io/?username=AbdulRaffayQureshi&theme=radical&no-frame=false&margin-w=4" />
+</p> -->
 
 ---
 
