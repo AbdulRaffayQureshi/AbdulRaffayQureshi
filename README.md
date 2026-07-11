@@ -1,19 +1,19 @@
-&lt;h1 align="center"&gt;Hi, I'm Abdul Raffay 👋&lt;/h1&gt;
-&lt;h3 align="center"&gt;🕵️ Genomic Detective — Turning Biological Mysteries Into Solvable Data Problems&lt;/h3&gt;
+<h1 align="center">Hi, I'm Abdul Raffay 👋</h1>
+<h3 align="center">🕵️ Genomic Detective — Turning Biological Mysteries Into Solvable Data Problems</h3>
 
-&lt;p align="center"&gt;
-  &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Hunting+Down+Resistant+Genes+Before+They+Spread;Bioinformatics+%2B+Deep+Learning+%3D+My+Kind+of+Detective+Work;Turning+Genomic+Noise+Into+Diagnostic+Signal;Debugging+Biology%2C+One+Genome+at+a+Time" alt="Typing SVG" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Hunting+Down+Resistant+Genes+Before+They+Spread;Bioinformatics+%2B+Deep+Learning+%3D+My+Kind+of+Detective+Work;Turning+Genomic+Noise+Into+Diagnostic+Signal;Debugging+Biology%2C+One+Genome+at+a+Time" alt="Typing SVG" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;a href="https://linkedin.com/in/abdulraffayqureshi"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="mailto:qureshiabdulraffay@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="https://x.com/Uff_Raffay"&gt;&lt;img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" /&gt;&lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="https://linkedin.com/in/abdulraffayqureshi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:qureshiabdulraffay@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/Uff_Raffay"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🔍 &lt;ins&gt;The Investigator&lt;/ins&gt;
+### 🔍 <ins>The Investigator</ins>
 
 Think of a doctor diagnosing an infection by symptoms — I do the same thing, except my patient is a genome and my symptoms are patterns in data. I'm a Bioinformatics student who treats biological problems like a detective treats a case: find the anomaly, trace it back to its cause, build a model that catches it next time. My foundation spans **bioinformatics software, biostatistics, and biophysics**, backed by solid **Linux** systems skills and a full-stack (**MERN**) development background. On top of that, I work with **Generative AI and Machine Learning**, and I'm now pushing further into **Deep Learning** — with the goal of bringing modern DL techniques into bioinformatics workflows that are still dominated by classical methods.
 
@@ -27,64 +27,64 @@ Think of a doctor diagnosing an infection by symptoms — I do the same thing, e
 
 ---
 
-### 🧬 &lt;ins&gt;3D Genomic Landscape&lt;/ins&gt;
+### 🧬 <ins>3D Genomic Landscape</ins>
 
-&lt;p align="center"&gt;
-  &lt;img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
+</p>
 
-&lt;p align="center"&gt;
-  &lt;i&gt;🔬 My contribution activity visualized as a 3D genomic landscape — each block represents a day of detective work in the codebase.&lt;/i&gt;
-&lt;/p&gt;
+<p align="center">
+  <i>🔬 My contribution activity visualized as a 3D genomic landscape — each block represents a day of detective work in the codebase.</i>
+</p>
 
 ---
 
-### 🗂️ &lt;ins&gt;Case Files&lt;/ins&gt;
+### 🗂️ <ins>Case Files</ins>
 
-&lt;p&gt;Closed cases, solved with data:&lt;/p&gt;
+<p>Closed cases, solved with data:</p>
 
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td width="50%" valign="top"&gt;
+<table>
+<tr>
+<td width="50%" valign="top">
 
 **🦠 Case #1 — AMR Predictor: Acinetobacter baumannii**  
 Random Forest classifier predicting antimicrobial resistance across ~1,884 genomes from BV-BRC. Uses SMOTE for class imbalance, Chi-Squared feature selection, and SHAP for interpretability, with a live Streamlit dashboard for exploring predictions.
 
 `Python` `scikit-learn` `SHAP` `SMOTE` `Streamlit`
 
-&lt;/td&gt;
-&lt;td width="50%" valign="top"&gt;
+</td>
+<td width="50%" valign="top">
 
 **🧬 Case #2 — SLC6A4 Variant Detection**  
 SNP analysis pipeline: Bowtie2 alignment, ORF prediction, and Cytoscape-based network visualization, built for a Bioinformatics Analysis Lab course project.
 
 `Bowtie2` `Cytoscape` `Bioinformatics`
 
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td width="50%" valign="top"&gt;
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **🚨 Case #3 — Smart Crime Prediction & Patrol Optimization**  
 Streamlit app using a Random Forest classifier on synthetic crime data to predict hotspots and optimize patrol allocation.
 
 `Python` `Streamlit` `scikit-learn`
 
-&lt;/td&gt;
-&lt;td width="50%" valign="top"&gt;
+</td>
+<td width="50%" valign="top">
 
 **💊 Case #4 — Sulfonamide Derivatives as Antibacterials**  
 Academic colloquium piece covering molecular docking, ADMET profiling, and clinical trial pathways for sulfonamide-based antibacterial agents.
 
 `Research` `Molecular Docking` `ADMET`
 
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
+</td>
+</tr>
+</table>
 
 ---
 
-### 🧰 &lt;ins&gt;The Toolkit&lt;/ins&gt;
+### 🧰 <ins>The Toolkit</ins>
 
 **Bioinformatics & Data Science**
 
@@ -125,80 +125,72 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 ---
 
-### 🧬 &lt;ins&gt;3D Language DNA Helix&lt;/ins&gt;
-
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRaffayQureshi&layout=donut&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="250"/&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=AbdulRaffayQureshi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="250"/&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;i&gt;🧬 The "DNA" of my codebase — visualized as a 3D donut chart and stats card.&lt;/i&gt;
-&lt;/p&gt;
-
----
-
-### 🐍 &lt;ins&gt;Following the Trail&lt;/ins&gt;
-
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRaffayQureshi&theme=react-dark&hide_border=true&area=true" alt="commit activity graph" /&gt;
-&lt;/p&gt;
-
----
-
-### 🕵️‍♂️ &lt;ins&gt;Tracking the Tail (Contribution Activity)&lt;/ins&gt;
-
-&lt;p align="center"&gt;
-  &lt;picture&gt;
-    &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/output/github-contribution-grid-snake-dark.svg"&gt;
-    &lt;source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/output/github-contribution-grid-snake.svg"&gt;
-    &lt;img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/output/github-contribution-grid-snake.svg"&gt;
-  &lt;/picture&gt;
-&lt;/p&gt;
-
----
-
-### 🌌 &lt;ins&gt;3D Contribution Night View&lt;/ins&gt;
-
-&lt;p align="center"&gt;
-  &lt;img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Night View Contribution" /&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;i&gt;🌃 A night-sky view of my coding activity — like observing stars in a genomic universe.&lt;/i&gt;
-&lt;/p&gt;
-
----
-
-### 📊 &lt;ins&gt;Case Stats&lt;/ins&gt;
-
-&lt;p align="center"&gt;
-  &lt;img src="https://github-stats-extended.vercel.app/api?username=AbdulRaffayQureshi&show_icons=true&theme=default_repocard&hide_border=false&count_private=true" height="165"/&gt;
-  &lt;img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdulRaffayQureshi&layout=compact&theme=default_repocard&hide_border=false" height="165"/&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;img src="https://streak-stats.demolab.com/?user=AbdulRaffayQureshi&theme=default_repocard&hide_border=false" /&gt;
-&lt;/p&gt;
-
-&lt;!-- &lt;p align="center"&gt;
-  &lt;img src="https://github-profile-trophies.ryma.io/?username=AbdulRaffayQureshi&theme=radical&no-frame=false&margin-w=4" /&gt;
-&lt;/p&gt; --&gt;
-
----
-
-### 🏆 &lt;ins&gt;Detective Badges&lt;/ins&gt;
-
-&lt;p align="center"&gt;
-  &lt;img src="https://github-profile-trophy.vercel.app/?username=AbdulRaffayQureshi&theme=radical&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" /&gt;
-&lt;/p&gt;
-
----
-
-&lt;p align="center"&gt;
-  &lt;i&gt;Open to collaborating on AI/DL in bioinformatics — predictive modeling, open-source tools, and genomic data visualization. Trying to help bring this field into the deep learning era. Reach out!&lt;/i&gt;
-&lt;/p&gt;
+### 🧬 <ins>3D Language DNA Helix</ins>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRaffayQureshi&layout=donut&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRaffayQureshi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="250"/>
+</p>
+
+<p align="center">
+  <i>🧬 The "DNA" of my codebase — visualized as a 3D donut chart and stats card.</i>
+</p>
+
+---
+
+### 🐍 <ins>Following the Trail</ins>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRaffayQureshi&theme=react-dark&hide_border=true&area=true" alt="commit activity graph" />
+</p>
+
+---
+
+### 🕵️‍♂️ <ins>Tracking the Tail (Contribution Activity)</ins>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+### 🌌 <ins>3D Contribution Night View</ins>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Night View Contribution" />
+</p>
+
+<p align="center">
+  <i>🌃 A night-sky view of my coding activity — like observing stars in a genomic universe.</i>
+</p>
+
+---
+
+### 📊 <ins>Case Stats</ins>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=AbdulRaffayQureshi&show_icons=true&theme=default_repocard&hide_border=false&count_private=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdulRaffayQureshi&layout=compact&theme=default_repocard&hide_border=false" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AbdulRaffayQureshi&theme=default_repocard&hide_border=false" />
+</p>
+
+---
+
+### 🏆 <ins>Detective Badges</ins>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulRaffayQureshi&theme=radical&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <i>Open to collaborating on AI/DL in bioinformatics — predictive modeling, open-source tools, and genomic data visualization. Trying to help bring this field into the deep learning era. Reach out!</i>
 </p>
