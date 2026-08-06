@@ -148,26 +148,26 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 **🐱 My GitHub Data** 
 
-> 📦 149.1 kB Used in GitHub's Storage 
+> 📦 177.4 kB Used in GitHub's Storage 
  > 
-> 🏆 148 Contributions in the Year 2026
+> 🏆 154 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 32 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Tuesday                  25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Wednesday                85 commits          ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
-Thursday                 42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Friday                   45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Saturday                 114 commits         ████████░░░░░░░░░░░░░░░░░   30.32 % 
-Sunday                   45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Monday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Tuesday                  25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Wednesday                87 commits          ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+Thursday                 49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Friday                   45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Saturday                 114 commits         ███████░░░░░░░░░░░░░░░░░░   29.61 % 
+Sunday                   45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
 ```
 
 
@@ -207,11 +207,11 @@ VS Code                  47 mins             ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-Jupyter Notebook         3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Jupyter Notebook         3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
@@ -221,7 +221,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 05:36:52 UTC
+ Last Updated on 06/08/2026 03:37:59 UTC
 <!--END_SECTION:waka-->
 
 ---
