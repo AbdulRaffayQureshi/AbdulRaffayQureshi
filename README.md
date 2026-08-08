@@ -140,28 +140,75 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 ### ⏱️ Time Spent on the Case (Weekly Coding Activity)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2052%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 177.5 kB Used in GitHub's Storage 
+> 📦 177.6 kB Used in GitHub's Storage 
  > 
-> 🏆 154 Contributions in the Year 2026
+> 🏆 161 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 33 Public Repositories 
+> 📜 34 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Tuesday                  25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Wednesday                87 commits          ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+Thursday                 49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Friday                   51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Saturday                 118 commits         ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+Sunday                   45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   9 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  9 mins              █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 mins (28.51%)
+
+✍️ 0 lines written by AI, 76 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 42 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Jupyter Notebook         3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
@@ -171,7 +218,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 03:15:36 UTC
+ Last Updated on 08/08/2026 02:21:59 UTC
 <!--END_SECTION:waka-->
 
 ---
