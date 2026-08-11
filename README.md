@@ -140,17 +140,17 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 ### ⏱️ Time Spent on the Case (Weekly Coding Activity)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 177.9 kB Used in GitHub's Storage 
+> 📦 178.1 kB Used in GitHub's Storage 
  > 
-> 🏆 161 Contributions in the Year 2026
+> 🏆 167 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -161,13 +161,13 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Tuesday                  25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Wednesday                87 commits          █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-Thursday                 49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Friday                   51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Saturday                 118 commits         ███████░░░░░░░░░░░░░░░░░░   29.57 % 
-Sunday                   47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Monday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Tuesday                  31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Wednesday                87 commits          █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+Thursday                 49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Friday                   51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Saturday                 118 commits         ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+Sunday                   47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
 ```
 
 
@@ -175,22 +175,22 @@ Sunday                   47 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 45 mins       ██████████████████░░░░░░░   71.15 % 
-Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Text                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Mermaid                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Python                   3 hrs 35 mins       ███████████████████░░░░░░   76.30 % 
+Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Text                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Mermaid                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 59 mins (25.67%)
+⏱ AI Coding Time: 59 mins (21.09%)
 
-✍️ 0 lines written by AI, 582 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 652 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -222,7 +222,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 02:35:12 UTC
+ Last Updated on 11/08/2026 02:28:20 UTC
 <!--END_SECTION:waka-->
 
 ---
