@@ -140,7 +140,7 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 ### ⏱️ Time Spent on the Case (Weekly Coding Activity)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20mins-blue?style=flat)
 
@@ -148,26 +148,26 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 **🐱 My GitHub Data** 
 
-> 📦 178.1 kB Used in GitHub's Storage 
+> 📦 188.8 kB Used in GitHub's Storage 
  > 
-> 🏆 167 Contributions in the Year 2026
+> 🏆 183 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 35 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Tuesday                  31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Wednesday                87 commits          █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-Thursday                 49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Friday                   51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Saturday                 118 commits         ███████░░░░░░░░░░░░░░░░░░   28.85 % 
-Sunday                   47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Monday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Tuesday                  43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Wednesday                94 commits          █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+Thursday                 49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Friday                   51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Saturday                 118 commits         ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+Sunday                   47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
 ```
 
 
@@ -175,44 +175,44 @@ Sunday                   47 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 35 mins       ███████████████████░░░░░░   76.30 % 
-Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Text                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Mermaid                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Python                   4 hrs 10 mins       ████████████████████░░░░░   78.82 % 
+Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Text                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Mermaid                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 43 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 59 mins (21.09%)
+⏱ AI Coding Time: 56 mins (17.88%)
 
-✍️ 0 lines written by AI, 652 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 792 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 9 AI Prompts
+🧠 2 AI Sessions, 8 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📝 Concise Prompter — average 42 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
@@ -222,7 +222,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 02:28:20 UTC
+ Last Updated on 12/08/2026 02:45:17 UTC
 <!--END_SECTION:waka-->
 
 ---
