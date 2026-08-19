@@ -148,9 +148,9 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 **🐱 My GitHub Data** 
 
-> 📦 207.3 kB Used in GitHub's Storage 
+> 📦 211.6 kB Used in GitHub's Storage 
  > 
-> 🏆 202 Contributions in the Year 2026
+> 🏆 203 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -161,13 +161,13 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Tuesday                  45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Wednesday                95 commits          █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-Thursday                 54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Friday                   66 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Saturday                 123 commits         ███████░░░░░░░░░░░░░░░░░░   26.17 % 
-Sunday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Monday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Tuesday                  48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Wednesday                97 commits          █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+Thursday                 54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Friday                   66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Saturday                 123 commits         ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
+Sunday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
 ```
 
 
@@ -175,23 +175,23 @@ Sunday                   56 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 51 mins       ██████████████░░░░░░░░░░░   56.18 % 
-Text                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Docker                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Python                   3 hrs 6 mins        █████████████░░░░░░░░░░░░   50.90 % 
+Text                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+YAML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Docker                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 23 mins       ███████████████████████░░   93.01 % 
-Copilot CLI              28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+VS Code                  5 hrs 38 mins       ███████████████████████░░   92.15 % 
+Copilot CLI              28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 mins (11.76%)
+⏱ AI Coding Time: 48 mins (13.21%)
 
-✍️ 120 lines written by AI, 3,339 lines written by hand (3.47% AI-written)
+✍️ 120 lines written by AI, 3,123 lines written by hand (3.7% AI-written)
 
 🔤 0 Input Tokens, 63,536 Output Tokens
 
@@ -203,10 +203,10 @@ Code                     120 lines           ███████████�
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.47% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 3.7% of written lines came from AI
 📝 Concise Prompter — average 461 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 98.04% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -226,7 +226,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 01:51:44 UTC
+ Last Updated on 19/08/2026 01:53:48 UTC
 <!--END_SECTION:waka-->
 
 ---
