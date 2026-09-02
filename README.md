@@ -140,7 +140,7 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 ### ⏱️ Time Spent on the Case (Weekly Coding Activity)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2028%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2048%20mins-blue?style=flat)
 
@@ -148,9 +148,9 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 **🐱 My GitHub Data** 
 
-> 📦 250.2 kB Used in GitHub's Storage 
+> 📦 253.6 kB Used in GitHub's Storage 
  > 
-> 🏆 244 Contributions in the Year 2026
+> 🏆 249 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -161,13 +161,13 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-Tuesday                  61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Wednesday                105 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Thursday                 62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Friday                   87 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Saturday                 133 commits         ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-Sunday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Monday                   44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Tuesday                  65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Wednesday                110 commits         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Thursday                 62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Friday                   87 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Saturday                 133 commits         ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+Sunday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
 ```
 
 
@@ -175,20 +175,34 @@ Sunday                   70 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   38 mins             ██████████████░░░░░░░░░░░   54.59 % 
-Git Config               13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Markdown                 13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Python                   1 hr 50 mins        ███████████████░░░░░░░░░░   60.10 % 
+Markdown                 35 mins             █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Git Config               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+TOML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 9 mins (5.3%)
+
+✍️ 0 lines written by AI, 940 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 42 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -208,7 +222,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 05:09:22 UTC
+ Last Updated on 02/09/2026 04:35:13 UTC
 <!--END_SECTION:waka-->
 
 ---
