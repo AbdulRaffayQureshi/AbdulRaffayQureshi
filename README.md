@@ -140,17 +140,17 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 ### ⏱️ Time Spent on the Case (Weekly Coding Activity)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 286.3 kB Used in GitHub's Storage 
+> 📦 325.5 kB Used in GitHub's Storage 
  > 
-> 🏆 308 Contributions in the Year 2026
+> 🏆 317 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -161,13 +161,13 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Tuesday                  75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Wednesday                128 commits         █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-Thursday                 80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Friday                   107 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Saturday                 145 commits         █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-Sunday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Monday                   52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Tuesday                  75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Wednesday                128 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Thursday                 80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Friday                   104 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Saturday                 154 commits         ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+Sunday                   84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
 ```
 
 
@@ -175,45 +175,45 @@ Sunday                   80 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               54 mins             █████████░░░░░░░░░░░░░░░░   37.40 % 
-Markdown                 38 mins             ███████░░░░░░░░░░░░░░░░░░   26.29 % 
-Python                   29 mins             █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+TypeScript               1 hr 10 mins        █████████░░░░░░░░░░░░░░░░   37.84 % 
+Markdown                 52 mins             ███████░░░░░░░░░░░░░░░░░░   28.07 % 
+Python                   29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 20 mins (55.06%)
+⏱ AI Coding Time: 1 hr 40 mins (53.89%)
 
-✍️ 605 lines written by AI, 355 lines written by hand (63.02% AI-written)
+✍️ 747 lines written by AI, 412 lines written by hand (64.45% AI-written)
 
 🔤 84,368 Input Tokens, 164 Output Tokens
 
 💵 $0.26 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 18 AI Prompts
+🧠 6 AI Sessions, 22 AI Prompts
 
-Github-Copilot           605 lines           █████████████████████████   100.00 % 
+Github-Copilot           747 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 63.02% of written lines came from AI
-📝 Concise Prompter — average 432 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 42.05% of changed lines were hand-edited
+⚖️ Balanced with AI — 64.45% of written lines came from AI
+📄 Detailed Prompter — average 871 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 39.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
+JavaScript               11 repos            ████████░░░░░░░░░░░░░░░░░   31.43 % 
 Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
 HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
@@ -224,7 +224,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 04:35:39 UTC
+ Last Updated on 13/09/2026 04:49:19 UTC
 <!--END_SECTION:waka-->
 
 ---
