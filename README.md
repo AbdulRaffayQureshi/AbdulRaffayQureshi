@@ -140,7 +140,7 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 ### ⏱️ Time Spent on the Case (Weekly Coding Activity)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2021%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2038%20mins-blue?style=flat)
 
@@ -148,9 +148,9 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 **🐱 My GitHub Data** 
 
-> 📦 329.9 kB Used in GitHub's Storage 
+> 📦 335.2 kB Used in GitHub's Storage 
  > 
-> 🏆 328 Contributions in the Year 2026
+> 🏆 333 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -161,13 +161,13 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Tuesday                  79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Wednesday                128 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Thursday                 80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Friday                   104 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Saturday                 154 commits         ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-Sunday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Monday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Tuesday                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Wednesday                133 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Thursday                 80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Friday                   104 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Saturday                 154 commits         █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Sunday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
 ```
 
 
@@ -175,22 +175,22 @@ Sunday                   90 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   34.81 % 
-TypeScript               1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-Markdown                 1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Other                    54 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-CSV                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Python                   2 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   40.77 % 
+TypeScript               1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Markdown                 1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Other                    57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+CSV                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 41 mins (27.04%)
+⏱ AI Coding Time: 1 hr 41 mins (24.15%)
 
-✍️ 775 lines written by AI, 33,525 lines written by hand (2.26% AI-written)
+✍️ 775 lines written by AI, 34,294 lines written by hand (2.21% AI-written)
 
 🔤 84,368 Input Tokens, 164 Output Tokens
 
@@ -201,10 +201,10 @@ VS Code                  6 hrs 13 mins       ███████████�
 Github-Copilot           775 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.26% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 2.21% of written lines came from AI
 📄 Detailed Prompter — average 802 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 97.89% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -224,7 +224,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 04:56:18 UTC
+ Last Updated on 16/09/2026 04:50:30 UTC
 <!--END_SECTION:waka-->
 
 ---
