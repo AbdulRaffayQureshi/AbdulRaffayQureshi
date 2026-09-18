@@ -148,9 +148,9 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 **🐱 My GitHub Data** 
 
-> 📦 340.5 kB Used in GitHub's Storage 
+> 📦 345.6 kB Used in GitHub's Storage 
  > 
-> 🏆 338 Contributions in the Year 2026
+> 🏆 345 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -161,13 +161,13 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Tuesday                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Wednesday                137 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-Thursday                 85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Friday                   104 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Saturday                 154 commits         █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-Sunday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Monday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Tuesday                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Wednesday                137 commits         █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Thursday                 91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Friday                   109 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Saturday                 154 commits         █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+Sunday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
 ```
 
 
@@ -175,36 +175,36 @@ Sunday                   90 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   40.77 % 
-TypeScript               1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Markdown                 1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Other                    57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-CSV                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Python                   5 hrs 23 mins       █████████████░░░░░░░░░░░░   50.39 % 
+Other                    1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Markdown                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+TypeScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+CSV                      47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 41 mins (24.15%)
+⏱ AI Coding Time: 2 hrs 11 mins (20.5%)
 
-✍️ 775 lines written by AI, 34,294 lines written by hand (2.21% AI-written)
+✍️ 753 lines written by AI, 36,464 lines written by hand (2.02% AI-written)
 
-🔤 84,368 Input Tokens, 164 Output Tokens
+🔤 126,493 Input Tokens, 1,703 Output Tokens
 
-💵 $0.26 Estimated AI Cost This Week
+💵 $0.41 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 24 AI Prompts
+🧠 9 AI Sessions, 26 AI Prompts
 
-Github-Copilot           775 lines           █████████████████████████   100.00 % 
+Github-Copilot           753 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.21% of written lines came from AI
-📄 Detailed Prompter — average 802 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 97.96% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 2.02% of written lines came from AI
+📄 Detailed Prompter — average 715 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 98.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -224,7 +224,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 04:54:18 UTC
+ Last Updated on 18/09/2026 04:45:02 UTC
 <!--END_SECTION:waka-->
 
 ---
