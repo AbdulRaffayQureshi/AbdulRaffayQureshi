@@ -140,17 +140,17 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 ### ⏱️ Time Spent on the Case (Weekly Coding Activity)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2024%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 354.0 kB Used in GitHub's Storage 
+> 📦 358.0 kB Used in GitHub's Storage 
  > 
-> 🏆 362 Contributions in the Year 2026
+> 🏆 366 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -161,13 +161,13 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Tuesday                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Wednesday                137 commits         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-Thursday                 91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Friday                   115 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Saturday                 164 commits         █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-Sunday                   99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Monday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Wednesday                137 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Thursday                 91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Friday                   115 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Saturday                 164 commits         █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+Sunday                   99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
 ```
 
 
@@ -175,22 +175,22 @@ Sunday                   99 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 29 mins       ███████████████████░░░░░░   74.89 % 
-Other                    40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-CSV                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Python                   4 hrs 41 mins       ██████████████████░░░░░░░   73.84 % 
+Other                    38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+Text                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+CSV                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 mins (12.98%)
+⏱ AI Coding Time: 46 mins (12.24%)
 
-✍️ 14 lines written by AI, 4,017 lines written by hand (0.35% AI-written)
+✍️ 14 lines written by AI, 3,998 lines written by hand (0.35% AI-written)
 
 🔤 67,597 Input Tokens, 1,581 Output Tokens
 
@@ -224,7 +224,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 04:56:57 UTC
+ Last Updated on 22/09/2026 04:58:19 UTC
 <!--END_SECTION:waka-->
 
 ---
