@@ -140,7 +140,7 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 ### ⏱️ Time Spent on the Case (Weekly Coding Activity)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2024%20mins-blue?style=flat)
 
@@ -148,9 +148,9 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 **🐱 My GitHub Data** 
 
-> 📦 362.3 kB Used in GitHub's Storage 
+> 📦 366.9 kB Used in GitHub's Storage 
  > 
-> 🏆 371 Contributions in the Year 2026
+> 🏆 376 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -161,13 +161,13 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Tuesday                  91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Wednesday                142 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Thursday                 91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Friday                   115 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Saturday                 164 commits         █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-Sunday                   99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Monday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Tuesday                  91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Wednesday                146 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+Thursday                 96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Friday                   115 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Saturday                 164 commits         █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Sunday                   99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
 ```
 
 
@@ -175,22 +175,22 @@ Sunday                   99 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 14 mins       █████████████████░░░░░░░░   68.94 % 
-Text                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Other                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-CSV                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Python                   5 hrs 14 mins       █████████████████░░░░░░░░   67.73 % 
+Text                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Other                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+CSV                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 36 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 mins (10.21%)
+⏱ AI Coding Time: 46 mins (10.03%)
 
-✍️ 14 lines written by AI, 7,526 lines written by hand (0.19% AI-written)
+✍️ 14 lines written by AI, 7,638 lines written by hand (0.18% AI-written)
 
 🔤 67,597 Input Tokens, 1,581 Output Tokens
 
@@ -201,7 +201,7 @@ VS Code                  7 hrs 36 mins       ███████████�
 Github-Copilot           14 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.19% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.18% of written lines came from AI
 📝 Concise Prompter — average 110 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
@@ -224,7 +224,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 04:46:29 UTC
+ Last Updated on 24/09/2026 04:52:03 UTC
 <!--END_SECTION:waka-->
 
 ---
