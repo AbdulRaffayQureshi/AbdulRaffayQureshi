@@ -140,17 +140,17 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 ### ⏱️ Time Spent on the Case (Weekly Coding Activity)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 370.4 kB Used in GitHub's Storage 
+> 📦 372.3 kB Used in GitHub's Storage 
  > 
-> 🏆 381 Contributions in the Year 2026
+> 🏆 385 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -161,13 +161,13 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Tuesday                  91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Wednesday                146 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-Thursday                 101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Friday                   119 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Saturday                 164 commits         █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-Sunday                   99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Monday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Tuesday                  91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Wednesday                146 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Thursday                 101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Friday                   123 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Saturday                 168 commits         █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Sunday                   99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
 ```
 
 
@@ -175,11 +175,11 @@ Sunday                   99 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 19 mins       ████████████████░░░░░░░░░   63.13 % 
-Text                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-CSV                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Python                   2 hrs 19 mins       ████████████████░░░░░░░░░   63.26 % 
+Text                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+CSV                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 
 🔥 Editors: 
 VS Code                  3 hrs 41 mins       █████████████████████████   100.00 % 
@@ -224,7 +224,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 04:59:10 UTC
+ Last Updated on 26/09/2026 04:59:19 UTC
 <!--END_SECTION:waka-->
 
 ---
