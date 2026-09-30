@@ -144,13 +144,13 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2027%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 388.4 kB Used in GitHub's Storage 
+> 📦 394.6 kB Used in GitHub's Storage 
  > 
-> 🏆 397 Contributions in the Year 2026
+> 🏆 401 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -161,13 +161,13 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Tuesday                  94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Wednesday                146 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Thursday                 101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Friday                   123 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Saturday                 172 commits         █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-Sunday                   107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Monday                   77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Tuesday                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Wednesday                150 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Thursday                 101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Friday                   123 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Saturday                 172 commits         █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+Sunday                   107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
 ```
 
 
@@ -175,22 +175,21 @@ Sunday                   107 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 23 mins        ███████████████░░░░░░░░░░   60.37 % 
-Text                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Markdown                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-TypeScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Python                   9 mins              █████████████░░░░░░░░░░░░   53.52 % 
+TypeScript               6 mins              ██████████░░░░░░░░░░░░░░░   38.09 % 
+Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  17 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (1.89%)
+⏱ AI Coding Time: 2 mins (14.82%)
 
-✍️ 38 lines written by AI, 4,447 lines written by hand (0.85% AI-written)
+✍️ 38 lines written by AI, 150 lines written by hand (20.21% AI-written)
 
 🔤 30,338 Input Tokens, 79 Output Tokens
 
@@ -201,10 +200,10 @@ VS Code                  2 hrs 18 mins       ███████████�
 Github-Copilot           38 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.85% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 20.21% of written lines came from AI
 📝 Concise Prompter — average 216 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.18% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 79.79% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -224,7 +223,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 05:45:15 UTC
+ Last Updated on 30/09/2026 05:34:01 UTC
 <!--END_SECTION:waka-->
 
 ---
