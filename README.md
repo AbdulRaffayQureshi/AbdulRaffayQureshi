@@ -148,9 +148,9 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 **🐱 My GitHub Data** 
 
-> 📦 394.6 kB Used in GitHub's Storage 
+> 📦 399.9 kB Used in GitHub's Storage 
  > 
-> 🏆 401 Contributions in the Year 2026
+> 🏆 407 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -161,13 +161,13 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Tuesday                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Wednesday                150 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Thursday                 101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Friday                   123 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Saturday                 172 commits         █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-Sunday                   107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Monday                   77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Tuesday                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Wednesday                154 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Thursday                 106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Friday                   123 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Saturday                 172 commits         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Sunday                   107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
 ```
 
 
@@ -175,21 +175,19 @@ Sunday                   107 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   9 mins              █████████████░░░░░░░░░░░░   53.52 % 
-TypeScript               6 mins              ██████████░░░░░░░░░░░░░░░   38.09 % 
-Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Python                   9 mins              █████████████████████████   100.00 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+VS Code                  9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (14.82%)
+⏱ AI Coding Time: 2 mins (27.69%)
 
-✍️ 38 lines written by AI, 150 lines written by hand (20.21% AI-written)
+✍️ 38 lines written by AI, 38 lines written by hand (50.0% AI-written)
 
 🔤 30,338 Input Tokens, 79 Output Tokens
 
@@ -200,10 +198,10 @@ VS Code                  17 mins             ███████████�
 Github-Copilot           38 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 20.21% of written lines came from AI
+⚖️ Balanced with AI — 50.0% of written lines came from AI
 📝 Concise Prompter — average 216 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 79.79% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 50.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -223,7 +221,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 05:34:01 UTC
+ Last Updated on 01/10/2026 05:55:28 UTC
 <!--END_SECTION:waka-->
 
 ---
