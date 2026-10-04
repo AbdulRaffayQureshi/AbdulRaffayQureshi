@@ -144,13 +144,13 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%202%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 408.5 kB Used in GitHub's Storage 
+> 📦 401.3 kB Used in GitHub's Storage 
  > 
-> 🏆 435 Contributions in the Year 2026
+> 🏆 444 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -161,13 +161,13 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Tuesday                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Wednesday                154 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Thursday                 110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Friday                   148 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Saturday                 177 commits         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-Sunday                   107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Monday                   77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Tuesday                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Wednesday                154 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Thursday                 110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Friday                   148 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Saturday                 185 commits         █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+Sunday                   114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
 ```
 
 
@@ -224,7 +224,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 05:20:23 UTC
+ Last Updated on 04/10/2026 05:54:23 UTC
 <!--END_SECTION:waka-->
 
 ---
