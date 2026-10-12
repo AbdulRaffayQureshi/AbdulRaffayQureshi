@@ -144,13 +144,13 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%202%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 426.1 kB Used in GitHub's Storage 
+> 📦 430.3 kB Used in GitHub's Storage 
  > 
-> 🏆 496 Contributions in the Year 2026
+> 🏆 504 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -161,13 +161,13 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Tuesday                  104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Wednesday                164 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Thursday                 123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Friday                   161 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Saturday                 198 commits         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-Sunday                   131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Monday                   96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Tuesday                  104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Wednesday                164 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Thursday                 123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Friday                   161 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Saturday                 198 commits         █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Sunday                   139 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
 ```
 
 
@@ -175,11 +175,10 @@ Sunday                   131 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   12 mins             ████████████████████░░░░░   81.63 % 
-Markdown                 2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Python                   12 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+VS Code                  12 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -205,7 +204,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 05:48:14 UTC
+ Last Updated on 12/10/2026 05:59:26 UTC
 <!--END_SECTION:waka-->
 
 ---
