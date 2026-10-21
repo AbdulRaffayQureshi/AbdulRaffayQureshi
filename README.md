@@ -148,9 +148,9 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 **🐱 My GitHub Data** 
 
-> 📦 463.0 kB Used in GitHub's Storage 
+> 📦 469.3 kB Used in GitHub's Storage 
  > 
-> 🏆 573 Contributions in the Year 2026
+> 🏆 582 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -161,13 +161,13 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Tuesday                  120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Wednesday                179 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Thursday                 138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Friday                   176 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Saturday                 216 commits         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-Sunday                   152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Monday                   117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Tuesday                  128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Wednesday                186 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Thursday                 138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Friday                   176 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Saturday                 216 commits         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Sunday                   152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
 ```
 
 
@@ -175,14 +175,14 @@ Sunday                   152 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 1 min         ███████████████░░░░░░░░░░   61.09 % 
-Markdown                 42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-CSV                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Python                   1 hr 11 mins        ████████████░░░░░░░░░░░░░   48.02 % 
+Markdown                 42 mins             ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+CSV                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -208,7 +208,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2026 04:52:31 UTC
+ Last Updated on 21/10/2026 04:48:44 UTC
 <!--END_SECTION:waka-->
 
 ---
