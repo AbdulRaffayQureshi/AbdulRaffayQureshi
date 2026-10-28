@@ -144,13 +144,13 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%202%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 496.9 kB Used in GitHub's Storage 
+> 📦 501.3 kB Used in GitHub's Storage 
  > 
-> 🏆 641 Contributions in the Year 2026
+> 🏆 653 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -161,13 +161,13 @@ Academic colloquium piece covering molecular docking, ADMET profiling, and clini
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Tuesday                  136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Wednesday                195 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Thursday                 153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Friday                   191 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Saturday                 233 commits         █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-Sunday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Monday                   132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Tuesday                  144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Wednesday                203 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Thursday                 153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Friday                   191 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Saturday                 233 commits         █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Sunday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
 ```
 
 
@@ -191,9 +191,9 @@ No AI Coding Activity Tracked This Week
 
 ```text
 JavaScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Python                   9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
 HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
@@ -204,7 +204,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbdulRaffayQureshi/AbdulRaffayQureshi/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 05:06:36 UTC
+ Last Updated on 28/10/2026 05:43:58 UTC
 <!--END_SECTION:waka-->
 
 ---
